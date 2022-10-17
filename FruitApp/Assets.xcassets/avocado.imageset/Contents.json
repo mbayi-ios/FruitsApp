@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "26-267660_avocado-fruit-food-transparent-background-fresh-avocado-png-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
